@@ -1,3 +1,10 @@
+# できること
+* netmikoで富士通機器が利用できるようになる。
+
+# 前提
+* python3 がインストール済み
+* コマンドプロンプトでgitコマンドが使える(コマンドプロンプトでgit --versionがたたける)
+
 # 使い方
 * ```\netmiko-develop```配下で以下を実行  
 ```py -m pip install -r requirements.txt```  
