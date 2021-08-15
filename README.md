@@ -4,6 +4,7 @@
 # 前提
 * python3 がインストール済み
 * コマンドプロンプトでgitコマンドが使える(コマンドプロンプトでgit --versionがたたける)
+* netmiko-develop.zipをインストールし、解凍している
 
 # 使い方
 * ```\netmiko-develop```配下で以下を実行  
